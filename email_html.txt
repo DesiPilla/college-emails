@@ -1,0 +1,26 @@
+<html>
+  <body>
+    <p>Hello {0} Admissions,
+        <br><br>
+        My name is Desi Pilla, and I am a rising senior at Conrad Schools of Science.
+        I have a 4.0 GPA, and am interested in applying to your school for the 2021-22 academic year.
+        One of the most important things I'm looking for is a school that takes the 
+        time out to create a positive experience for each and every student. For this reason,
+        I'm emailing you to see if you could perhaps send me a large t-shirt bearing your school's
+        logo / emblem?
+        <br><br>
+        My home address is <br><em>
+        1 Meadowbrook Ln, <br>
+        Newark, DE 19711 </em>
+        <br><br>
+        Thank you for taking the time to read this. I look forward to hearing from you. 
+        <br><br>
+
+        Desi Pilla <br>
+        Conrad Schools of Science '21 <br>
+        Odyssey of the Mind Team Captain <br>
+        Science Olympiad Team Captain <br>
+        desidezdez@gmail.com
+    </p>
+  </body>
+</html>
