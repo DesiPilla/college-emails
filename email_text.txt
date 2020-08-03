@@ -2,7 +2,7 @@ Prospective Student Outreach
 
 Hello {0} Admissions,
 
-My name is Desi Pilla, and I am a rising senior at Conrad Schools of Science.
+My name is <FIRST_NAME LAST_NAME>, and I am a rising senior at <SCHOOL_NAME>.
 I have a 4.0 GPA, and am interested in applying to your school for the 2021-22 academic year. 
 
 One of the most important things I'm looking for is a school that takes the 
@@ -11,13 +11,13 @@ I'm emailing you to see if you could perhaps send me a large t-shirt bearing you
 logo / emblem? 
 
 My home address is 
-1 Meadowbrook Ln, 
-Newark, DE 19711
+STREET ADDRESS
+CITY, STATE, ZIP
 
 Thank you for taking the time to read this. I look forward to hearing from you.
 
-Desi Pilla
-Conrad Schools of Science '21
+<FIRST_NAME LAST_NAME>
+<SCHOOL_NAME>  '21
 Odyssey of the Mind Team Captain
 Science Olympiad Team Captain
-desidezdez@gmail.com
+<EMAIL_ADDRESS>
