@@ -17,6 +17,9 @@ If any of these are not already installed, you can get them using pip
 pip install PKG_NAME
 ```
 
+Lastly, you need to allow access to third-party apps on the email account you are using. For Gmail accounts, go to Settings > Accounts and Import > Other Google Account settings.  Under Security, scroll down and enable access for less secure apps. This setting is required to enable SMTP access.
+
+
 ## Personalize the emails
 The files `email_text.txt` and `email_html.html` contain the body of the emails that will be sent. Open them and change the placeholder values (`FIRST_NAME`, `LAST_NAME`, `SCHOOL_NAME`, `ADDRESS`) to the names and address you would like to use. You can use a fake name and school if you'd like, but whatever address you use is the one where any shirts you get will be mailed to.
 
